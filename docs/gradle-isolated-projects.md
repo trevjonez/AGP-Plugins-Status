@@ -35,4 +35,4 @@ Current Status as of: **9.3.0**
 | `com.autonomousapps.build-health` | :green_heart: Ready (1.31.0) | https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1153 | |
 | `com.osacky.doctor` | :red_circle: Broken | https://github.com/runningcode/gradle-doctor/issues/481 | |
 | `com.newrelic.agent.android` | :green_heart: Ready (7.8.4) | https://github.com/newrelic/newrelic-android-agent/pull/618 | [7.8.4](https://github.com/newrelic/newrelic-android-agent/releases/tag/7.8.4) |
-| `snyk-gradle-plugin` (Snyk CLI) | :red_circle: Broken | https://github.com/snyk/snyk-gradle-plugin/issues/344 | [#352](https://github.com/snyk/snyk-gradle-plugin/pull/352) |
+| `snyk-gradle-plugin` (Snyk CLI) | :red_circle: Broken | https://github.com/snyk/snyk-gradle-plugin/issues/344 | [#351](https://github.com/snyk/snyk-gradle-plugin/pull/351) [#352](https://github.com/snyk/snyk-gradle-plugin/pull/352) |
